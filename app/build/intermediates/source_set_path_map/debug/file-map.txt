@@ -1,0 +1,8 @@
+net.micode.notes.app-pngs-0 C:\Users\DevRickLin\StudioProjects\Notes\app\build\generated\res\pngs\debug
+net.micode.notes.app-resValues-1 C:\Users\DevRickLin\StudioProjects\Notes\app\build\generated\res\resValues\debug
+net.micode.notes.app-rs-2 C:\Users\DevRickLin\StudioProjects\Notes\app\build\generated\res\rs\debug
+net.micode.notes.app-mergeDebugResources-3 C:\Users\DevRickLin\StudioProjects\Notes\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+net.micode.notes.app-mergeDebugResources-4 C:\Users\DevRickLin\StudioProjects\Notes\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+net.micode.notes.app-merged_res-5 C:\Users\DevRickLin\StudioProjects\Notes\app\build\intermediates\merged_res\debug
+net.micode.notes.app-debug-6 C:\Users\DevRickLin\StudioProjects\Notes\app\src\debug\res
+net.micode.notes.app-main-7 C:\Users\DevRickLin\StudioProjects\Notes\app\src\main\res
